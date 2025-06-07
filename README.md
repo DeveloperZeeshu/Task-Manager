@@ -26,4 +26,4 @@ A simple and responsive Todo App built using **React**. Users can add tasks, mar
 ## 📦 Getting Started
 
 ## 🙋‍♂️ Author
-Made with ❤️ by Zeeshaan Abbas
+Made with ❤️ by Jeesan Abbas
