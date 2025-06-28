@@ -1,6 +1,6 @@
-# ✅ React Todo App
+# ✅ React Task Manager App
 
-A simple and responsive Todo App built using **React**. Users can add tasks, mark them as completed, and delete them. It uses React hooks to manage state and provides a clean UI for managing daily tasks.
+A simple and responsive Task Manager App built using **React**. Users can add tasks, mark them as completed, and delete them. It uses React hooks to manage state and provides a clean UI for managing daily tasks.
 
 ---
 
